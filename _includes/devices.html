@@ -1,0 +1,21 @@
+<section class="section devices">
+  <div class="section--top">
+    <h2>Get Your Repair Started</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat.</p>
+  </div>
+  <div class="devices--blocks row">
+    {% for item in site.data.devices %}
+      <div class="col">
+        <div class="devices--block ">
+          <img src="/assets/img/devices/{{ item.url }}">
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.text }}</p>
+          <a href="#">Read more...</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
