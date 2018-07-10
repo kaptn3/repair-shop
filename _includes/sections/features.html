@@ -1,0 +1,17 @@
+<section class="section features container">
+  <div class="features--top">
+    <h3>Why choose us</h3>
+    <p>Some of Our Features</p>
+  </div>
+  <div class="features--blocks row">
+    {% for item in site.data.features %}
+      <div class="col">
+        <div class="features--blocks--header">
+          <img src="/assets/img/features/{{ item.url }}">
+          <h3>{{ item.title }}</h3>
+        </div>
+        <p>{{ item.text }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
