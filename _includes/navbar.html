@@ -1,0 +1,11 @@
+<div class="navbar container">
+  <nav class="navbar--nav">
+    <ul>
+       {% for item in site.data.navigation %}
+          <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+       {% endfor %}
+    </ul>
+  </nav>
+
+  <button class="navbar--btn">Make an appointment</button>
+</div>
