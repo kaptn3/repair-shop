@@ -11,10 +11,16 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
+  color: #fff;
 }
 .navbar--btn {
   background: var(--yellow);
   color: #fff;
   text-transform: uppercase;
-  padding: 8px;
+  padding: 6px;
+  font-weight: bold;
+}
+.navbar--nav--link {
+  display: block;
+  padding: 16px 0;
 }
