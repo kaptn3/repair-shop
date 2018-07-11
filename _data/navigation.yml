@@ -2,16 +2,16 @@
   url: '/'
 
 - title: About Us
-  url: about.html
+  url: about
 
 - title: Support
-  url: support.html
+  url: support
 
 - title: Repair & Upgrades
-  url: repair-and-upgrades.htnl
+  url: repair-and-upgrades
 
 - title: Book your Repair
-  url: book-your-repair.html
+  url: book-your-repair
 
 - title: Contact Us
-  url: contact.html
+  url: contact
