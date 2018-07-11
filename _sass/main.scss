@@ -1,1 +1,12 @@
-@import 'layout/navbar';
+@import 'vendor/normalize',
+        'vendor/bootstrap-grid.min';
+
+@import 'abstracts/root',
+        'abstracts/reset';
+
+@import 'layout/header',
+        'layout/navbar',
+        'layout/sections',
+        'layout/footer';
+
+@import 'pages/404';
