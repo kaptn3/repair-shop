@@ -1,12 +1,16 @@
-.header--top,
+.header--top--info,
 .header--top--info--block {
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
-.header--top--info {
-  display: flex;
+.header--top--info--block {
+  align-items: center;
+  color: var(--black);
+}
+.header--top--info--block {
+  font-size: .875rem;
 }
 .header--top--info--block--header {
   margin: 0;
+  font-size: 1rem;
 }

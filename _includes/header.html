@@ -1,29 +1,32 @@
 <header class="header">
   <div class="header--top container">
-    <div class="header--top--logo">
-      <img src="/assets/img/logo.png"/>
-    </div>
-    <div class="header--top--info">
-      <div class="header--top--info--block">
-        <img src="">
-        <div>
-          <h3 class="header--top--info--block--header">Select Language</h3>
-        </div>
+    <div class="row align-items-center">
+      <div class="header--top--logo col-6">
+        <img src="/assets/img/logo.png"/>
       </div>
-      <div class="header--top--info--block">
-        <img src="">
-        <div>
-          <h3 class="header--top--info--block--header">Send Us Mail</h3>
-          <a href="mailto:{{ site.contacts.email }}">{{ site.contacts.email }}</a>
+
+      <div class="header--top--info col-6">
+          <div class="header--top--info--block">
+            <img src="">
+            <div>
+              <h3 class="header--top--info--block--header">Select Language</h3>
+            </div>
+          </div>
+          <div class="header--top--info--block">
+            <img src="">
+            <div>
+              <h3 class="header--top--info--block--header">Send Us Mail</h3>
+              <a href="mailto:{{ site.contacts.email }}">{{ site.contacts.email }}</a>
+            </div>
+          </div>
+          <div class="header--top--info--block">
+            <img src="">
+            <div>
+              <h3 class="header--top--info--block--header">Call Us</h3>
+              <a href="tel:{{ site.contacts.phone }}">{{ site.contacts.phone }}</a>
+            </div>
+          </div>
         </div>
-      </div>
-      <div class="header--top--info--block">
-        <img src="">
-        <div>
-          <h3 class="header--top--info--block--header">Call Us</h3>
-          <a href="tel:{{ site.contacts.phone }}">{{ site.contacts.phone }}</a>
-        </div>
-      </div>
     </div>
   </div>
 
