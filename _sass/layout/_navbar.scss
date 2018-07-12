@@ -1,5 +1,7 @@
 .navbar {
   background: #333;
+}
+.navbar-container {  
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -12,7 +14,8 @@
   flex-flow: row wrap;
   justify-content: flex-start;
   color: #fff;
-  margin-left: -10px;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 .navbar--btn {
   background: var(--yellow);

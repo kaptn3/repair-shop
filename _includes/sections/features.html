@@ -1,9 +1,10 @@
-<section class="section features container">
+<section class="section features">
   <div class="section--top">
-    <h3>Why choose us</h3>
+    <h2 class="section--header">Why choose us</h2>
     <p>Some of Our Features</p>
   </div>
-  <div class="features--blocks row">
+  <div class="features--blocks container">
+  <div class="row">
     {% for item in site.data.features %}
       <div class="col">
         <div class="features--blocks--header">
@@ -13,5 +14,6 @@
         <p>{{ item.text }}</p>
       </div>
     {% endfor %}
+  </div>
   </div>
 </section>
