@@ -1,8 +1,8 @@
 @import 'vendor/normalize',
         'vendor/bootstrap-grid.min';
 
-@import 'abstracts/root',
-        'abstracts/reset';
+@import 'base/root',
+        'base/reset';
 
 @import 'layout/header',
         'layout/navbar',
