@@ -1,12 +1,19 @@
 .footer {
   background: var(--black);
-  color: var(--text-gray);
+  color: #fff;
 }
 .footer--top {
-  border-bottom: 1px solid #3b3b3b;
   display: flex;
   justify-content: space-between;
+  font-weight: bold;
+  font-size: 1.125rem;
+  padding: 18px 0;
+}
+.footer--line {
+  opacity: .04;
 }
 .footer--bottom {
   text-align: center;
+  font-size: 0.75rem;
+  padding: 16px 0;
 }
