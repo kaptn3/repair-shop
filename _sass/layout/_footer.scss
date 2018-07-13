@@ -5,12 +5,23 @@
 .footer--top {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-weight: bold;
   font-size: 1.125rem;
   padding: 18px 0;
 }
+.footer--top--social {
+  display: flex;
+}
+.footer--top--social--icon {
+  display: block;
+  color: black;
+  font-size: .5rem;
+  margin-left: 10px;
+}
 .footer--line {
   opacity: .04;
+  margin: 0;
 }
 .footer--bottom {
   text-align: center;
