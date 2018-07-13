@@ -6,9 +6,16 @@
 .header--top--info--block {
   align-items: center;
   color: var(--black);
-}
-.header--top--info--block {
   font-size: .875rem;
+}
+@media (min-width: 1200px) {
+  .header--top--info--block {    
+    max-width: 25%;
+  }
+}
+.header--top--info--block--icon {
+  max-width: 35px;
+  margin-right: 10px;
 }
 .header--top--info--block--header {
   margin: 0;
