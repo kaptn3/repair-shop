@@ -1,3 +1,7 @@
+.header--top {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
 .header--top--info,
 .header--top--info--block {
   display: flex;
@@ -7,6 +11,15 @@
   align-items: center;
   color: var(--black);
   font-size: .875rem;
+}
+@media (max-width: 575.99px) {
+  .header--top--info {
+    flex-direction: column;
+  }
+  .header--top--info--block {
+    margin-top: 15px;
+    justify-content: flex-start;
+  }
 }
 @media (min-width: 1200px) {
   .header--top--info--block {    
