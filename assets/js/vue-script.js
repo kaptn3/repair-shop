@@ -1,6 +1,7 @@
 var app = new Vue({
   el: '#app',
   data: {
+    show: false,
     currentNumber: 0,
     timer: null
   },
@@ -9,6 +10,9 @@ var app = new Vue({
     this.activeButton();
   },
   methods: {
+    menu () {
+      this.show = !this.show;
+    },
     activeButton () {
       let buttons = document.querySelectorAll('.carousel--btn');
       let number = Math.abs(this.currentNumber) % slides.length;
