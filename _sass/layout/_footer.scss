@@ -28,3 +28,11 @@
   font-size: 0.75rem;
   padding: 16px 0;
 }
+@media (max-width: 575.99px) {
+  .footer--top {
+    flex-direction: column;
+  }
+  .footer--top--social {
+    margin-top: 18px;
+  }
+}
