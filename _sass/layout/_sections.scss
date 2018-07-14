@@ -44,4 +44,9 @@
 .features--blocks--header {
   display: flex;
   align-items: flex-end;
+  margin-bottom: 16px;
+}
+.features--blocks--header--text {
+  margin: 0;
+  font-size: 1.375rem;
 }

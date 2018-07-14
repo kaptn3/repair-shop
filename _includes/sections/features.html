@@ -8,8 +8,8 @@
     {% for item in site.data.features %}
       <div class="col">
         <div class="features--blocks--header">
-          <img src="/assets/img/features/{{ item.url }}">
-          <h3>{{ item.title }}</h3>
+          <img src="/assets/img/features/{{ item.img }}" alt="item.title">
+          <h2 class="features--blocks--header--text">{{ item.title }}</h2>
         </div>
         <p>{{ item.text }}</p>
       </div>
