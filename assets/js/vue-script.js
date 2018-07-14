@@ -1,13 +1,19 @@
 var app = new Vue({
   el: '#app',
   data: {
-    show: false,
     currentNumber: 0,
-    slides: []
+    timer: null
+  },
+  mounted: function () {
+    this.startRotation();
   },
   methods: {
-    menu () {
-      this.show = !this.show;
+    startRotation() {
+      this.timer = setInterval(this.nextSlide, 3000);
+    },
+    stopRotation() {
+      clearTimeout(this.timer);
+      this.timer = null;
     },
     nextSlide () {
       this.currentNumber += 1;

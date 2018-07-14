@@ -5,7 +5,7 @@
       v-for="number in [currentNumber]"
       :key='number' :style="{ 'background-image': 'url(/assets/img/slides/' + currentSlide.img + ')' }">
       <div class="container">
-        <div class="row" :class="'carousel--slide-' + currentSlide.side">
+        <div class="row" :class="'carousel--slide-' + currentSlide.side" v-on:mouseover="stopRotation" v-on:mouseout="startRotation">
           <div class="carousel--slide--content col-5">
             <h1 class="carousel--slide--header">{% raw %} {{ currentSlide.title }} {% endraw %}</h1>
             <p class="carousel--slide--text">{% raw %} {{ currentSlide.text }} {% endraw %}</p>
@@ -14,11 +14,9 @@
       </div>
     </div>
   </transition-group>
-
-  <!-- v-if: { show } Сделать все блоки с условием -->
-
   <div class="carousel--btn-group">
-    <button @click="prevSlide">prev</button>
-    <button @click="nextSlide">next</button>
+    {% for item in site.data.slides %}
+      <button>prev</button>
+    {% endfor %}
   </div>
 </section>
