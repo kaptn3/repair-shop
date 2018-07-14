@@ -6,8 +6,20 @@ var app = new Vue({
   },
   mounted: function () {
     this.startRotation();
+    this.activeButton();
   },
   methods: {
+    activeButton () {
+      let buttons = document.querySelectorAll('.carousel--btn');
+      let number = Math.abs(this.currentNumber) % slides.length;
+      buttons[number].className = 'carousel--btn carousel--btn-active';
+
+      for (let i = 0; i < buttons.length; i++) {
+        if (i !== number) {
+          buttons[i].className = 'carousel--btn';
+        }
+      }
+    },
     startRotation() {
       this.timer = setInterval(this.nextSlide, 3000);
     },
@@ -17,9 +29,11 @@ var app = new Vue({
     },
     nextSlide () {
       this.currentNumber += 1;
+      this.activeButton();
     },
-    prevSlide () {
-      this.currentNumber -= 1;
+    switchSlide (number) {
+      this.currentNumber = number;
+      this.activeButton();
     }
   },
   computed: {

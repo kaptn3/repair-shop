@@ -1,11 +1,30 @@
 .carousel {
-  height: 452px;
+  height: 442px;
   overflow: hidden;
   position: relative;
 }
-.carousel--btn-group {
+@media (max-width: 991.99px) {
+  .carousel {
+    display: none;
+  }
+}
+.carousel--btns {
   position: absolute;
-  bottom: 20px;
+  bottom: 40px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.carousel--btn {
+  display: block;
+  width: 14px;
+  height: 14px;
+  background-color: #d4d2d6;
+  border-radius: 14px;
+  margin: 0 3px;
+}
+.carousel--btn-active {
+  background-color: var(--yellow);
 }
 .carousel--slide {
   background-size: cover;
