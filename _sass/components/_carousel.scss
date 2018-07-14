@@ -1,0 +1,43 @@
+.carousel {
+  height: 452px;
+  overflow: hidden;
+  position: relative;
+}
+.carousel--btn-group {
+  position: absolute;
+  bottom: 20px;
+}
+.carousel--slide {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+.carousel--slide-right {
+  justify-content: flex-end;
+}
+.carousel--slide-left {
+  justify-content: flex-start;
+}
+.carousel--slide--content {
+  text-transform: uppercase;  
+}
+.carousel--slide--header {
+  color: var(--yellow);
+  font-size: 2.125rem;
+  line-height: .6;
+  margin: 0 0 1.5rem 0;
+}
+/* Animation */
+.fade-enter-active, .fade-leave-active {
+ transition: all .7s ease;
+ overflow: hidden;
+ visibility: visible;
+ opacity: 1;
+ position: absolute;
+ width: 100%;
+ margin: 0 auto;
+}
+.fade-enter, .fade-leave-to {
+ opacity: 0;
+ visibility: hidden;
+}
