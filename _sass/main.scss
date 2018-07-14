@@ -8,7 +8,9 @@
         'layout/navbar',
         'layout/sections',
         'layout/footer';
-        
-@import 'components/carousel';
 
-@import 'pages/404';
+@import 'components/carousel',
+        'components/contacts-block';
+
+@import 'pages/404',
+        'pages/contacts';

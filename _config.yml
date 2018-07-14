@@ -28,15 +28,4 @@ markdown: kramdown
 contacts: 
   email: email@example.com
   phone: +123 456 789
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  geo: 'Hoffman Parkway Mountain view'

@@ -1,0 +1,33 @@
+<section class="container contacts">
+  <div class="row">
+    <div class="contacts--block col-md-4">
+      <div class="contacts--block--icon col-3">
+        <i class="fas fa-map-marker-alt"></i>
+      </div>
+      <div class="contacts--block--info col-9">
+        <h2 class="contacts--block--info-h">{{ site.contacts.geo }} geo</h2>
+      </div>
+    </div>
+
+    <div class="contacts--block col-md-4">
+      <div class="contacts--block--icon col-3">
+        <i class="fas fa-phone"></i>
+      </div>
+      <div class="contacts--block--info col-9">
+        <h2 class="contacts--block--info-h">Call Us</h2>
+        <a href="tel:{{ site.contacts.phone }}">{{ site.contacts.phone }}</a>
+      </div>
+    </div>
+
+    <div class="contacts--block col-md-4">
+      <div class="contacts--block--icon col-3">
+        <i class="fas fa-envelope-open"></i> 
+      </div>
+      <div class="contacts--block--info col-9">
+        <h2 class="contacts--block--info-h">Send Us Mail</h2>
+        <a href="mailto:{{ site.contacts.email }}">{{ site.contacts.email }}</a>
+      </div>
+    </div>
+   
+  </div>
+</section>
