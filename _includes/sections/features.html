@@ -1,8 +1,9 @@
 <section class="section features">
-  <div class="section--top">
-    <h2 class="section--header">Why choose us</h2>
-    <p>Some of Our Features</p>
-  </div>
+  {% include sections/section-top.html 
+    title='Why choose us' 
+    text='Some of Our Features'
+    color='orange' %}
+
   <div class="features--blocks container">
   <div class="row">
     {% for item in site.data.features %}

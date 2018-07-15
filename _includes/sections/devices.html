@@ -1,16 +1,9 @@
 <section class="section devices">
-  <div class="section--icon">
-    <div class="section--icon1">
-      <img src="/assets/img/tools.svg">
-    </div>
-  </div>
-  <div class="section--top row justify-content-center">
-    <h2 class="section--header section--header-white col-10">Get Your Repair Started</h2>
-    <p class="col-12 col-md-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</p>
-  </div>
+  {% include sections/section-top.html 
+    title='Get Your Repair Started' 
+    text='Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat' %}
+
   <div class="devices--blocks container">
     <div class="row">
     {% for item in site.data.devices %}
