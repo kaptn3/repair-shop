@@ -18,19 +18,21 @@
   font-size: 1.375rem;
   margin: 0 0 .5rem 0;
 }
-.section--header-white {
-  z-index: 17;
-  margin-top: -16px;
-  background-color: #fff;
+@media (min-width: 992px) {
+  .section--header-white {    
+    z-index: 17;
+    margin-top: -16px;
+    background-color: #fff;
+  }
 }
 .devices--block {
   padding: 15px;
   background-color: #fafafa;
   height: 100%;
 }
-@media (max-width: 767.99px) {
+@media (max-width: 991.99px) {
   .devices--block {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     height: auto;
   }
 }
