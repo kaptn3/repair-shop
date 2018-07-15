@@ -6,34 +6,34 @@
     padding-bottom: 20px;
   }
 }
-.devices--block--header {
+.devices__block__header {
   font-size: 1.375rem;
   margin: 0 0 .5rem 0;
 }
-.devices--block {
+.devices__block {
   padding: 15px;
   background-color: #fafafa;
   height: 100%;
 }
 @media (max-width: 991.99px) {
-  .devices--block {
+  .devices__block {
     margin-bottom: 20px;
     height: auto;
   }
 }
-.devices--block--header {
-  color: var(--yellow);
+.devices__block__header {
+  color: var(--orange);
 }
 .features {
-  background-color: var(--yellow);
+  background-color: var(--orange);
   color: #fff;
 }
-.features--blocks--header {
+.features__blocks__header {
   display: flex;
   align-items: flex-end;
   margin-bottom: 16px;
 }
-.features--blocks--header--text {
+.features__blocks__header__text {
   margin: 0;
   font-size: 1.375rem;
 }

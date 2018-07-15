@@ -3,7 +3,7 @@
   margin-bottom: 40px;
 }
 @media (max-width: 575.99px) {
-  .section--top {
+  .section__top {
     margin-bottom: 20px;
   }
 }
@@ -22,7 +22,7 @@
   }
 }
 .section__top_orange {
-  background-color: var(--yellow);
+  background-color: var(--orange);
   margin-top: 0;
 }
 .section__top__icon {
@@ -35,7 +35,7 @@
   content: "";
   position: absolute;
   height: 1px;
-  border-top: 1px solid var(--yellow);
+  border-top: 1px solid var(--orange);
   width: 95px;
   top: 12px;
 }

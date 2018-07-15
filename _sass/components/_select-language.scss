@@ -1,18 +1,18 @@
-#select--language {
+#select__language {
   position: relative;
 }
-.select--language--list {
+.select__language__list {
   position: absolute;
   width: 100%;
   z-index: 8;
   background-color: #fff;
   box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.2);
 }
-.select--language--list > ul {
+.select__language__list > ul {
   padding: 0;
   list-style: none;
 }
-.select--language--list--item {
+.select__language__list__item {
   padding: 7px 15px;
   display: block;
   font-size: 1rem;
