@@ -1,0 +1,17 @@
+<div id="menu" class="navbar">
+  <div class="container navbar-container">
+    <button @click="menu" class="navbar--toggler" :class="{ 'navbar--toggler-active': show }"><i class="fas fa-bars"></i></button>
+    <!-- button for mobile -->
+    <button class="navbar--btn navbar-mobile--btn">Make an appointment</button>
+
+    <nav class="navbar--nav" :class="{ 'navbar-mobile--show': show }">
+      <ul class="navbar--nav--ul">
+        {% for item in site.data.navigation %}
+          <li><a class="navbar--nav--link" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <button class="navbar--btn navbar-desktop--btn">Make an appointment</button>
+  </div>
+</div>

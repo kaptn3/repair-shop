@@ -1,0 +1,22 @@
+<section id="carousel" class="carousel">
+  <transition-group name='fade' tag='div'>
+    <div
+      class="carousel--slide row align-items-center"
+      v-for="number in [currentNumber]"
+      :key='number' :style="{ 'background-image': 'url(/assets/img/slides/' + currentSlide.img + ')' }">
+      <div class="container">
+        <div class="row" :class="'carousel--slide-' + currentSlide.side" v-on:mouseover="stopRotation" v-on:mouseout="startRotation">
+          <div class="carousel--slide--content col-5">
+            <h1 class="carousel--slide--header">{% raw %} {{ currentSlide.title }} {% endraw %}</h1>
+            <p class="carousel--slide--text">{% raw %} {{ currentSlide.text }} {% endraw %}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </transition-group>
+  <div class="carousel--btns" v-on:mouseover="stopRotation" v-on:mouseout="startRotation">
+    {% for item in site.data.slides %}
+      <button @click="switchSlide({{ forloop.index0 }})" class="carousel--btn"></button>
+    {% endfor %}
+  </div>
+</section>

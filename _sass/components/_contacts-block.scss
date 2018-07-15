@@ -1,0 +1,25 @@
+.contacts--block {
+  height: 176px;
+  margin-bottom: 60px;
+  display: flex;
+}
+.contacts--block--icon {
+  background-color: var(--yellow);
+  color: #fff;
+  font-size: 2rem;
+  align-items: center;
+}
+.contacts--block--icon,
+.contacts--block--info {
+  display: flex;
+  justify-content: center;
+}
+.contacts--block--info {
+  background-color: #fafafa;
+  flex-direction: column;
+  font-size: 1rem;
+  word-wrap: break-word;
+}
+.contacts--block--info-h {
+  margin: 0 0 1rem 0;
+}

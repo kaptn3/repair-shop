@@ -1,0 +1,18 @@
+@import 'vendor/normalize',
+        'vendor/bootstrap-grid.min';
+
+@import 'base/root',
+        'base/reset';
+
+@import 'layout/header',
+        'layout/navbar',
+        'layout/sections',
+        'layout/footer';
+
+@import 'components/carousel',
+        'components/contacts-block',
+        'components/select-language',
+        'components/section-top';
+
+@import 'pages/404',
+        'pages/contacts';

@@ -1,0 +1,46 @@
+<header class="header">
+  <div class="header--top container">
+    <div class="row align-items-center">
+      <div class="header--top--logo col-md-3 col-lg-4 col-xl-6">
+        <img src="/assets/img/logo.png"/>
+      </div>
+
+      <div class="header--top--info col-md-9 col-lg-8 col-xl-6">
+          <div class="header--top--info--block">
+            <div class="header--top--info--block--icon">
+              <img src="/assets/img/language.png">
+            </div>
+            <div id="select--language">
+              <h3 class="header--top--info--block--header"><a @click="selectLang">Select Language</a></h3>
+              <div class="select--language--list" v-if="showList">
+                <ul>
+                  <li><a class="select--language--list--item" href="#">GR</a></li>
+                  <li><a class="select--language--list--item" href="#">EN</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="header--top--info--block">
+            <div class="header--top--info--block--icon">
+              <img src="/assets/img/email.svg">
+            </div>
+            <div>
+              <h3 class="header--top--info--block--header">Send Us Mail</h3>
+              <a href="mailto:{{ site.contacts.email }}">{{ site.contacts.email }}</a>
+            </div>
+          </div>
+          <div class="header--top--info--block">
+            <div class="header--top--info--block--icon">
+              <img src="/assets/img/phone.svg">
+            </div>
+            <div>
+              <h3 class="header--top--info--block--header">Call Us</h3>
+              <a href="tel:{{ site.contacts.phone }}">{{ site.contacts.phone }}</a>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+  {% include navbar.html %}
+</header>

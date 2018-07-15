@@ -1,0 +1,19 @@
+- name: facebook
+  link: link
+  icon: fa-facebook-f
+
+- name: google_plus 
+  link: link
+  icon: fa-google-plus-g
+
+- name: twitter 
+  link: link
+  icon: fa-twitter
+
+- name: linkedin 
+  link: link
+  icon: fa-linkedin-in
+
+- name: youtube 
+  link: link
+  icon: fa-youtube

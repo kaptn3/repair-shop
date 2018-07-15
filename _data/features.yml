@@ -1,0 +1,15 @@
+- title: 'We are fast'
+  img: 'rocket.png'
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
+
+- title: 'Flat Rate Fees'
+  img: 'dollar.png'
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
+
+- title: '24/7 Services'
+  img: 'service.png'
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
+
+- title: 'Expert Staff'
+  img: 'expert.png'
+  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
