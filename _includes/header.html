@@ -10,8 +10,14 @@
             <div class="header--top--info--block--icon">
               <img src="/assets/img/language.png">
             </div>
-            <div>
-              <h3 class="header--top--info--block--header">Select Language</h3>
+            <div id="select--language">
+              <h3 class="header--top--info--block--header"><a @click="selectLang">Select Language</a></h3>
+              <div class="select--language--list" v-if="showList">
+                <ul>
+                  <li><a class="select--language--list--item" href="#">GR</a></li>
+                  <li><a class="select--language--list--item" href="#">EN</a></li>
+                </ul>
+              </div>
             </div>
           </div>
           <div class="header--top--info--block">
