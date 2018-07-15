@@ -1,6 +1,11 @@
 .section {
   padding-bottom: 60px;
 }
+@media (max-width: 991.99px) {
+  .section {
+    padding-bottom: 20px;
+  }
+}
 .devices--block--header {
   font-size: 1.375rem;
   margin: 0 0 .5rem 0;
