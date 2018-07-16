@@ -16,7 +16,7 @@
     {% for item in site.data.devices[page.lang] %}
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="devices__block">
-          <img src="/assets/img/devices/{{ item.img }}">
+          <img src="{{ site.baseurl }}/assets/img/devices/{{ item.img }}">
           <h2 class="devices__block__header">{{ item.title }}</h2>
           <p>{{ item.text }}</p>
           <!--a href="#">Read more...</a-->

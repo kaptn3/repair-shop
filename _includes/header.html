@@ -3,14 +3,14 @@
     <div class="row align-items-center">
       <div class="header__top__logo col-md-3 col-lg-4 col-xl-6">
         <a href="{{ site.baseurl }}">
-          <img src="/assets/img/logo.png"/>
+          <img src="{{ site.baseurl }}/assets/img/logo.png"/>
         </a>
       </div>
 
       <div class="header__top__info col-md-9 col-lg-8 col-xl-6">
           <div class="header__top__info__block">
             <div class="header__top__info__block__icon">
-              <img src="/assets/img/language.png">
+              <img src="{{ site.baseurl }}/assets/img/language.png">
             </div>
             <div id="select__language" v-cloak>
               <h3 class="header__top__info__block__header"><a @click="selectLang">
@@ -21,7 +21,7 @@
                 {% endif %}</a></h3>
               <div class="select__language__list" v-if="showList">
                 <ul>
-                  <li><a class="select__language__list__item" href="{{ "/el" | prepend: site.baseurl }}">GR</a></li>
+                  <li><a class="select__language__list__item" href="{{ "/el" | prepend: site.baseurl }}">EL</a></li>
                   <li><a class="select__language__list__item" href="{{ "/" | prepend: site.baseurl }}">EN</a></li>
                 </ul>
               </div>
@@ -29,7 +29,7 @@
           </div>
           <div class="header__top__info__block">
             <div class="header__top__info__block__icon">
-              <img src="/assets/img/email.svg">
+              <img src="{{ site.baseurl }}/assets/img/email.svg">
             </div>
             <div>
               <h3 class="header__top__info__block__header">{{ site.data.text-contact[page.lang].email }}</h3>
@@ -38,7 +38,7 @@
           </div>
           <div class="header__top__info__block">
             <div class="header__top__info__block__icon">
-              <img src="/assets/img/phone.svg">
+              <img src="{{ site.baseurl }}/assets/img/phone.svg">
             </div>
             <div>
               <h3 class="header__top__info__block__header">{{ site.data.text-contact[page.lang].call }}</h3>
