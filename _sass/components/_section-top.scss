@@ -11,14 +11,14 @@
   font-size: 1.375rem;
   margin: 0 0 .5rem 0;
 }
-.section__top__text {
-  margin: 0 12%;
-}
 @media (min-width: 992px) {
   .section__top {    
     z-index: 17;
     margin-top: -16px;
     background-color: #fff;
+  }
+  .section__top__text {
+    margin: 0 12%;
   }
 }
 .section__top_orange {
