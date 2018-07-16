@@ -1,0 +1,192 @@
+<svg width="1090" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <symbol viewBox="0 0 476.3 476.3" id="svg_2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+   <g id="svg_1">
+    <g id="svg_5">
+     <path fill="#fbb908" d="m411.75,250.2l-185.6,0l0,-185.6c0,-7.5 -6,-13.5 -13.5,-13.5c-117.2,0 -212.6,95.4 -212.6,212.6s95.4,212.6 212.6,212.6s212.6,-95.4 212.6,-212.6c0,-7.4 -6.1,-13.5 -13.5,-13.5zm-199.1,199.1c-102.3,0 -185.6,-83.3 -185.6,-185.6c0,-97.8 76,-178.2 172.1,-185.1l0,185.1c0,7.5 6,13.5 13.5,13.5l185.1,0c-6.9,96.1 -87.3,172.1 -185.1,172.1z" id="svg_6"/>
+     <path fill="#fbb908" d="m476.25,211.9c-0.2,-51.6 -19.1,-101.3 -53.2,-140c-40.4,-45.7 -98.4,-71.9 -159.4,-71.9c-7.5,0 -13.5,6 -13.5,13.5l0,199.1c0,7.5 6,13.5 13.5,13.5l199.1,0l0,0c7.5,0 13.5,-6 13.5,-13.5c0,-0.2 0,-0.4 0,-0.7zm-199.1,-12.7l0,-171.6c48.2,3.5 93.4,25.8 125.6,62.3c27,30.5 43,68.9 46,109.3l-171.6,0z" id="svg_7"/>
+    </g>
+   </g>
+  </symbol>
+  <symbol id="svg_21" viewBox="0 0 396.821 396.821" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <g id="svg_11">
+    <g id="svg_12">
+     <g id="svg_13">
+      <path id="svg_14" d="m394.583,8.054c-0.422,-3.413 -3.11,-6.101 -6.522,-6.523c-30.748,-3.803 -62.477,-0.488 -91.767,9.583c-29.293,10.072 -56.355,26.973 -78.258,48.876l-49.983,49.983l-72.149,9.305c-1.645,0.212 -3.172,0.963 -4.345,2.135l-69.563,69.563c-1.969,1.969 -2.685,4.868 -1.858,7.528c0.825,2.66 3.058,4.643 5.796,5.15l52.597,9.742l10.335,10.335l-22.003,11.915c-2.082,1.127 -3.51,3.172 -3.851,5.515s0.444,4.709 2.118,6.383l83.438,83.438c1.417,1.417 3.329,2.197 5.304,2.197c0.358,0 0.72,-0.026 1.08,-0.078c2.343,-0.341 4.388,-1.769 5.515,-3.851l11.916,-22.003l10.335,10.335l9.742,52.597c0.508,2.739 2.49,4.971 5.15,5.797c0.731,0.227 1.48,0.337 2.224,0.337c1.96,0 3.876,-0.769 5.305,-2.197l69.563,-69.563c1.172,-1.172 1.923,-2.7 2.135,-4.344l9.306,-72.15l49.983,-49.984c21.903,-21.903 38.804,-48.964 48.876,-78.257c10.07,-29.29 13.383,-61.023 9.581,-91.764zm-314.909,190.301l-36.989,-6.851l57.673,-57.675l50.332,-6.491l-71.016,71.017zm72.391,114.913l-69.219,-69.218l17.085,-9.252l61.385,61.386l-9.251,17.084zm110.22,-17.512l-57.674,57.674l-6.852,-36.988l71.017,-71.017l-6.491,50.331zm63.232,-128.285l-135.85,135.85l-96.874,-96.874l135.85,-135.851c19.738,-19.739 44.002,-35.076 70.287,-44.49c3.395,17.492 11.948,33.719 24.654,46.424c12.705,12.706 28.931,21.259 46.424,24.655c-9.415,26.283 -24.753,50.547 -44.491,70.286zm49.006,-84.697c-15.203,-2.593 -29.345,-9.863 -40.333,-20.85c-10.988,-10.987 -18.257,-25.13 -20.85,-40.333c21.741,-5.859 44.579,-7.857 66.99,-5.807c2.051,22.411 0.052,45.249 -5.807,66.99z" fill="#fbb908"/>
+      <path id="svg_15" d="m221.325,110.443c-17.74,17.741 -17.74,46.606 0,64.347c8.871,8.871 20.521,13.305 32.174,13.305c11.649,0 23.304,-4.436 32.173,-13.305l0.001,0c17.74,-17.74 17.74,-46.606 -0.001,-64.347c-17.741,-17.74 -46.607,-17.739 -64.347,0zm53.741,53.74c-11.894,11.893 -31.244,11.891 -43.134,0c-11.893,-11.892 -11.893,-31.242 0,-43.134c5.945,-5.946 13.756,-8.918 21.566,-8.918c7.811,0 15.621,2.973 21.566,8.918c11.893,11.892 11.893,31.242 0.002,43.134z" fill="#fbb908"/>
+      <path id="svg_16" d="m98.365,299.165c-2.93,-2.929 -7.678,-2.929 -10.607,0l-64.348,64.347c-2.929,2.929 -2.929,7.678 0,10.606c1.465,1.464 3.385,2.197 5.304,2.197s3.839,-0.732 5.304,-2.197l64.347,-64.347c2.928,-2.928 2.928,-7.677 0,-10.606z" fill="#fbb908"/>
+      <path id="svg_20" d="m108.263,319.671l-28.991,28.991c-2.929,2.929 -2.929,7.678 0,10.606c1.465,1.464 3.385,2.197 5.304,2.197s3.839,-0.732 5.304,-2.197l28.991,-28.991c2.929,-2.929 2.929,-7.678 0,-10.606c-2.93,-2.929 -7.678,-2.929 -10.608,0z" fill="#fbb908"/>
+      <path id="svg_24" d="m69.123,361.919c-3.138,0 -6.002,2.024 -7.062,4.973c-1.078,2.998 -0.075,6.441 2.416,8.416c2.547,2.02 6.266,2.13 8.928,0.265c2.84,-1.99 3.992,-5.81 2.639,-9.024c-1.113,-2.775 -3.945,-4.63 -6.921,-4.63z" fill="#fbb908"/>
+      <path id="svg_25" d="m76.044,366.549c0.19,0.451 -0.18,-0.45 0,0l0,0z" fill="#fbb908"/>
+      <path id="svg_26" d="m47.91,380.025l-3.992,3.992c-2.93,2.929 -2.93,7.678 -0.001,10.607c1.465,1.464 3.384,2.197 5.304,2.197c1.919,0 3.839,-0.732 5.303,-2.196l3.992,-3.992c2.93,-2.929 2.93,-7.678 0.001,-10.606c-2.929,-2.928 -7.679,-2.931 -10.607,-0.002z" fill="#fbb908"/>
+      <path id="svg_27" d="m42.502,314.014c-2.93,-2.929 -7.678,-2.929 -10.607,0l-28.991,28.991c-2.929,2.929 -2.929,7.678 0,10.606c1.465,1.464 3.385,2.197 5.304,2.197s3.839,-0.732 5.304,-2.197l28.991,-28.991c2.928,-2.928 2.928,-7.677 -0.001,-10.606z" fill="#fbb908"/>
+      <path id="svg_28" d="m54.472,311.136c3.043,-0.765 5.327,-3.417 5.644,-6.537c0.311,-3.055 -1.369,-6.049 -4.096,-7.427c-2.895,-1.464 -6.523,-0.853 -8.769,1.494c-2.405,2.513 -2.752,6.426 -0.852,9.335c-0.06,-0.09 -0.106,-0.156 0.015,0.029c0.126,0.185 0.083,0.118 0.023,0.029c1.767,2.567 4.992,3.842 8.035,3.077z" fill="#fbb908"/>
+      <path id="svg_29" d="m73.867,293.257l3.991,-3.992c2.929,-2.929 2.929,-7.678 -0.001,-10.606c-2.932,-2.93 -7.681,-2.929 -10.606,0.001l-3.991,3.992c-2.929,2.929 -2.929,7.678 0.001,10.606c1.465,1.464 3.384,2.196 5.303,2.196c1.919,0 3.839,-0.732 5.303,-2.197z" fill="#fbb908"/>
+     </g>
+    </g>
+   </g>
+   <g id="svg_30"/>
+   <g id="svg_31"/>
+   <g id="svg_32"/>
+   <g id="svg_33"/>
+   <g id="svg_34"/>
+   <g id="svg_35"/>
+   <g id="svg_36"/>
+   <g id="svg_37"/>
+   <g id="svg_38"/>
+   <g id="svg_39"/>
+   <g id="svg_40"/>
+   <g id="svg_41"/>
+   <g id="svg_42"/>
+   <g id="svg_43"/>
+   <g id="svg_44"/>
+  </symbol>
+  <symbol viewBox="0 0 482.8 482.8" id="svg_46" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+   <g id="svg_45">
+    <g id="svg_49">
+     <path fill="#fbb908" d="m395.95,210.4l-7.1,0l0,-62.9c0,-81.3 -66.1,-147.5 -147.5,-147.5c-81.3,0 -147.5,66.1 -147.5,147.5c0,7.5 6,13.5 13.5,13.5s13.5,-6 13.5,-13.5c0,-66.4 54,-120.5 120.5,-120.5c66.4,0 120.5,54 120.5,120.5l0,62.9l-275,0c-14.4,0 -26.1,11.7 -26.1,26.1l0,168.1c0,43.1 35.1,78.2 78.2,78.2l204.9,0c43.1,0 78.2,-35.1 78.2,-78.2l0,-168.1c0,-14.4 -11.7,-26.1 -26.1,-26.1zm-0.9,194.2c0,28.2 -22.9,51.2 -51.2,51.2l-204.8,0c-28.2,0 -51.2,-22.9 -51.2,-51.2l0,-167.2l307.2,0l0,167.2l0,0z" id="svg_50"/>
+     <path fill="#fbb908" d="m241.45,399.1c27.9,0 50.5,-22.7 50.5,-50.5c0,-27.9 -22.7,-50.5 -50.5,-50.5c-27.9,0 -50.5,22.7 -50.5,50.5s22.6,50.5 50.5,50.5zm0,-74.1c13,0 23.5,10.6 23.5,23.5s-10.5,23.6 -23.5,23.6s-23.5,-10.6 -23.5,-23.5s10.5,-23.6 23.5,-23.6z" id="svg_51"/>
+    </g>
+   </g>
+   <g id="svg_52"/>
+   <g id="svg_53"/>
+   <g id="svg_54"/>
+   <g id="svg_55"/>
+   <g id="svg_56"/>
+   <g id="svg_57"/>
+   <g id="svg_58"/>
+   <g id="svg_59"/>
+   <g id="svg_60"/>
+   <g id="svg_61"/>
+   <g id="svg_62"/>
+   <g id="svg_63"/>
+   <g id="svg_64"/>
+   <g id="svg_65"/>
+   <g id="svg_66"/>
+  </symbol>
+  <symbol id="svg_68" viewBox="0 0 487.958 487.958" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <g id="svg_67">
+    <path id="svg_71" d="m483.058,215.613l-215.5,-177.6c-4,-3.3 -9.6,-4 -14.3,-1.8c-4.7,2.2 -7.7,7 -7.7,12.2l0,93.6c-104.6,3.8 -176.5,40.7 -213.9,109.8c-32.2,59.6 -31.9,130.2 -31.6,176.9c0,3.8 0,7.4 0,10.8c0,6.1 4.1,11.5 10.1,13.1c1.1,0.3 2.3,0.4 3.4,0.4c4.8,0 9.3,-2.5 11.7,-6.8c73,-128.7 133.1,-134.9 220.2,-135.2l0,93.3c0,5.2 3,10 7.8,12.2s10.3,1.5 14.4,-1.8l215.4,-178.2c3.1,-2.6 4.9,-6.4 4.9,-10.4s-1.8,-7.9 -4.9,-10.5zm-210.5,160l0,-78.1c0,-3.6 -1.4,-7 -4,-9.5c-2.5,-2.5 -6,-4 -9.5,-4c-54.4,0 -96.1,1.5 -136.6,20.4c-35,16.3 -65.3,44 -95.2,87.5c1.2,-39.7 6.4,-87.1 28.1,-127.2c34.4,-63.6 101,-95.1 203.7,-96c7.4,-0.1 13.4,-6.1 13.4,-13.5l0,-78.2l180.7,149.1l-180.6,149.5z" fill="#fbb908"/>
+   </g>
+   <g id="svg_72"/>
+   <g id="svg_73"/>
+   <g id="svg_74"/>
+   <g id="svg_75"/>
+   <g id="svg_76"/>
+   <g id="svg_77"/>
+   <g id="svg_78"/>
+   <g id="svg_79"/>
+   <g id="svg_80"/>
+   <g id="svg_81"/>
+   <g id="svg_82"/>
+   <g id="svg_83"/>
+   <g id="svg_84"/>
+   <g id="svg_85"/>
+   <g id="svg_86"/>
+  </symbol>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_4"/>
+  <g id="svg_23"/>
+  <g id="svg_48"/>
+  <g id="svg_70"/>
+  <g id="svg_99">
+   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_91" y="289.45313" x="431.39063" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#fafafa" fill="#000000">MAKE CALL US</text>
+   <text id="svg_96" fill="#7f0000" stroke-width="0" x="180.87602" y="234.80394" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">2</text>
+  </g>
+  <g id="svg_100">
+   <text fill="#000000" stroke="#000000" stroke-width="0" x="136.29492" y="170" id="svg_8" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve">BROKEN DEVICE</text>
+   <text fill="#7f0000" stroke-width="0" x="24.65285" y="160.66667" id="svg_9" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">1</text>
+  </g>
+  <g id="svg_102">
+   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_95" y="290.948486" x="1002.730713" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#fafafa" fill="#000000">FAST SERVICE</text>
+   <text id="svg_98" fill="#7f0000" stroke-width="0" x="481.575203" y="233.872508" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">4</text>
+  </g>
+  <g id="svg_117">
+   <line id="svg_118" y2="204.8813" x2="413.69041" y1="180.39863" x1="413.69041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+   <line id="svg_119" y2="233.6497" x2="413.69041" y1="209.16703" x1="413.69041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+   <line id="svg_120" y2="262.48221" x2="413.69041" y1="237.99954" x1="413.69041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+  </g>
+  <g id="svg_129">
+   <g id="svg_130" stroke="null" transform="rotate(90 468.2950134277344,159.41577148437506) ">
+    <line id="svg_131" stroke="#000000" y2="142.85663" x2="468.29501" y1="118.37396" x1="468.29501" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_132" stroke="#000000" y2="171.62502" x2="468.29501" y1="147.14236" x1="468.29501" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_133" stroke="#000000" y2="200.45754" x2="468.29501" y1="175.97487" x1="468.29501" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   </g>
+   <g id="svg_134" stroke="null" transform="rotate(90 555.3807373046876,159.41580200195318) ">
+    <line id="svg_135" stroke="#000000" y2="142.85664" x2="555.3807" y1="118.37397" x1="555.3807" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_136" stroke="#000000" y2="171.62503" x2="555.3807" y1="147.14237" x1="555.3807" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_137" stroke="#000000" y2="200.45755" x2="555.3807" y1="175.97488" x1="555.3807" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   </g>
+  </g>
+  <text id="svg_97" fill="#7f0000" stroke-width="0" x="325.043715" y="56.975504" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(2.2440531086599695,0,0,1.8312220982913348,-110.6367837781589,57.137440954832556) " stroke="#000000">3</text>
+  <g id="svg_138">
+   <g id="svg_139" stroke="null" transform="rotate(90 846.7109985351562,159.41575622558602) ">
+    <line id="svg_140" stroke="#000000" y2="142.85663" x2="846.711" y1="118.37396" x1="846.711" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_141" stroke="#000000" y2="171.62502" x2="846.711" y1="147.14236" x1="846.711" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_142" stroke="#000000" y2="200.45754" x2="846.711" y1="175.97487" x1="846.711" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   </g>
+   <g id="svg_143" stroke="null" transform="rotate(90 933.7966918945312,159.41578674316415) ">
+    <line id="svg_144" stroke="#000000" y2="142.85664" x2="933.79669" y1="118.37397" x1="933.79669" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_145" stroke="#000000" y2="171.62503" x2="933.79669" y1="147.14237" x1="933.79669" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_146" stroke="#000000" y2="200.45755" x2="933.79669" y1="175.97488" x1="933.79669" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   </g>
+  </g>
+  <g id="svg_147">
+   <line id="svg_148" y2="204.991106" x2="988.735886" y1="180.508436" x1="988.735886" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+   <line id="svg_149" y2="233.759506" x2="988.735886" y1="209.276836" x1="988.735886" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+   <line id="svg_150" y2="262.592016" x2="988.735886" y1="238.109346" x1="988.735886" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+  </g>
+  <g id="svg_151">
+   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_93" y="160.375" x="676.73438" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">WE DO</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_94" y="188.375" x="721.73438" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">HOUSE CALLS</text>
+  </g>
+  <g id="svg_153">
+   <line id="svg_105" y2="202.75122" x2="124.59831" y1="178.26855" x1="124.59831" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
+   <line y2="231.51962" x2="124.59831" y1="207.03695" x1="124.59831" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000" id="svg_90"/>
+   <line y2="260.35213" x2="124.46483" y1="235.86946" x1="124.46483" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000" id="svg_92"/>
+  </g>
+  <g id="svg_157">
+   <g id="svg_103" stroke="null" transform="rotate(90 269.3518981933594,281.58541870117193) ">
+    <line id="svg_114" stroke="#000000" y2="265.02594" x2="269.3519" y1="240.54327" x1="269.3519" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_115" stroke="#000000" y2="293.79433" x2="269.3519" y1="269.31167" x1="269.3519" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+    <line id="svg_116" stroke="#000000" y2="322.62685" x2="269.3519" y1="298.14418" x1="269.3519" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   </g>
+   <g id="svg_156">
+    <line transform="rotate(90 211.0666809082031,281.5853881835938) " stroke="#000000" y2="293.82641" x2="211.06668" y1="269.34374" x1="211.06668" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" id="svg_111"/>
+    <line transform="rotate(90 182.29827880859372,281.5853881835938) " stroke="#000000" y2="293.82639" x2="182.29828" y1="269.34373" x1="182.29828" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" id="svg_112"/>
+    <line transform="rotate(90 153.46575927734372,281.5853881835938) " stroke="#000000" y2="293.82639" x2="153.46576" y1="269.34372" x1="153.46576" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" id="svg_113"/>
+   </g>
+  </g>
+  <g id="svg_160">
+   <line stroke="#000000" id="svg_152" y2="283.09285" x2="124.62934" y1="264.01627" x1="124.62934" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   <line stroke="#000000" id="svg_155" transform="rotate(90 128.6060638427734,281.6080932617188) " y2="286.79147" x2="128.60605" y1="276.42472" x1="128.60605" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+  </g>
+  <g transform="rotate(-180 417.4686279296875,167.69265747070312) " id="svg_161">
+   <line id="svg_158" stroke="#000000" transform="rotate(90 417.46862792968756,175.90191650390628) " y2="181.08529" x2="417.46864" y1="170.71853" x1="417.46864" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+   <line id="svg_159" stroke="#000000" y2="177.23094" x2="421.13059" y1="158.15436" x1="421.13059" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
+  </g>
+  <g id="svg_101" transform="rotate(-180 984.68017578125,167.47308349609375) ">
+   <line stroke="#000000" y2="177.011372" x2="980.70339" y1="157.934792" x1="980.70339" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" id="svg_104"/>
+   <line stroke="#000000" transform="rotate(90 984.6801147460938,175.52661132812509) " y2="180.709992" x2="984.6801" y1="170.343242" x1="984.6801" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" id="svg_106"/>
+  </g>
+  <g id="svg_88">
+   <circle fill="#fafafa" stroke="#fafafa" stroke-width="5" cx="126.676688" cy="93" r="38.28838" id="svg_10"/>
+   <use x="212.735238" y="198.30257" transform="matrix(0.10664193277349403,0,0,0.10664193277349403,45.976979346011866,50.79084783871307) " xlink:href="#svg_2" id="svg_3"/>
+  </g>
+  <g id="svg_107">
+   <circle fill="#fafafa" stroke="#fafafa" stroke-width="5" cx="413.363376" cy="345.47656" r="38.28838" id="svg_19"/>
+   <use id="svg_22" xlink:href="#svg_21" transform="matrix(0.10664193277349403,0,0,0.10664193277349403,45.976979346011866,50.79084783871307) " y="2565.819287" x="2901.0462"/>
+  </g>
+  <g id="svg_108">
+   <circle fill="#fafafa" stroke="#fafafa" stroke-width="5" cx="669.84725" cy="93.45831" r="38.28838" id="svg_18"/>
+   <use x="5306.140076" y="202.600276" transform="matrix(0.10664193277349403,0,0,0.10664193277349403,45.976979346011866,50.79084783871307) " xlink:href="#svg_46" id="svg_47"/>
+  </g>
+  <g id="svg_109">
+   <circle fill="#fafafa" stroke="#fafafa" stroke-width="5" cx="989.580547" cy="341.5" r="38.28838" id="svg_17"/>
+   <use id="svg_69" xlink:href="#svg_68" transform="matrix(0.10664193277349403,0,0,0.10664193277349403,45.976979346011866,50.79084783871307) " y="2528.530628" x="8304.335446"/>
+  </g>
+ </g>
+</svg>
