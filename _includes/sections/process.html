@@ -1,15 +1,22 @@
-<section class="section devices">
+{% capture header %}
+{{ site.data.process-top[page.lang].title }}
+{% endcapture %}
+
+{% capture text %}
+{{ site.data.process-top[page.lang].text }}
+{% endcapture %}
+
+
+<section class="section">
   {% include sections/section-top.html 
-    title='Our work Process' 
-    text='Easy and effective way to get your device repaired' %}
-    <!-- svg -->
-    <div class="container">
-      <div class="row justify-content-center">
-        <object
-          class="col-10"
-          type="image/svg+xml"
-          data="/assets/img/process.svg">
-          </object>
-        </div>
+    title=header
+    text=text %}
+  <!-- svg -->
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10">
+        {% include process.svg %}
       </div>
+    </div>
+  </div>
 </section>

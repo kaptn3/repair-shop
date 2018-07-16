@@ -3,13 +3,13 @@
 <!-- fontawesome -->
 <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
 <!-- script on vue -->
-<script src="/assets/js/menu.js"></script>
-<script src="/assets/js/language.js"></script>
+<script src="{{ '/assets/js/menu.js' | prepend: site.baseurl }}"></script>
+<script src="{{ '/assets/js/language.js' | prepend: site.baseurl }}"></script>
 
-{% if page.url == "/" %}
+{% if page.page == "index" %}
   <!-- variable for slides -->
   <script>
-    var slides = {{ site.data.slides | jsonify }};
+    var slides = {{ site.data.slides[page.lang] | jsonify }};
   </script>
-  <script src="/assets/js/carousel.js"></script>
+  <script src="{{ '/assets/js/carousel.js' | prepend: site.baseurl }}"></script>
 {% endif %}
