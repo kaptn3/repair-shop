@@ -24,6 +24,8 @@
 .section__top_orange {
   background-color: var(--orange);
   margin-top: 0;
+  flex: 0 0 83.333333%;
+  max-width: 83.333333%;
 }
 .section__top__icon {
   position: relative;
