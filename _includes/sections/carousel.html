@@ -15,7 +15,7 @@
     </div>
   </transition-group>
   <div class="carousel__btns" v-on:mouseover="stopRotation" v-on:mouseout="startRotation">
-    {% for item in site.data.slides %}
+    {% for item in site.data.slides[page.lang] %}
       <button @click="switchSlide({{ forloop.index0 }})" class="carousel__btn"></button>
     {% endfor %}
   </div>

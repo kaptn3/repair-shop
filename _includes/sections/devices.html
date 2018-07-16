@@ -1,12 +1,19 @@
+{% capture header %}
+{{ site.data.devices-top[page.lang].title }}
+{% endcapture %}
+
+{% capture text %}
+{{ site.data.devices-top[page.lang].text }}
+{% endcapture %}
+
 <section class="section devices">
   {% include sections/section-top.html 
-    title='Get Your Repair Started' 
-    text='Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat' %}
+    title=header 
+    text=text %}
 
   <div class="devices__blocks container">
     <div class="row">
-    {% for item in site.data.devices %}
+    {% for item in site.data.devices[page.lang] %}
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="devices__block">
           <img src="/assets/img/devices/{{ item.img }}">

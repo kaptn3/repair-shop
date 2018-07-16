@@ -9,7 +9,7 @@
 {% if page.url == "/" %}
   <!-- variable for slides -->
   <script>
-    var slides = {{ site.data.slides | jsonify }};
+    var slides = {{ site.data.slides[page.lang] | jsonify }};
   </script>
   <script src="/assets/js/carousel.js"></script>
 {% endif %}
