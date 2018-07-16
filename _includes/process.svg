@@ -94,7 +94,7 @@
   </symbol>
  </defs>
  <g>
-  <title>Layer 1</title>
+  <title>Our work Process</title>
   <g id="svg_143">
    <g id="svg_99">
     <text fill="#333333" stroke="#fafafa" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="381.39063" y="243.45313" id="svg_91" font-size="22" font-weight="bold" text-anchor="middle" xml:space="preserve">{{ site.data.process[page.lang].2 }}</text>
