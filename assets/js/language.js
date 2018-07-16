@@ -1,5 +1,5 @@
 var select = new Vue({
-  el: '#select--language',
+  el: '#select__language',
   data: {
     showList: false
   },

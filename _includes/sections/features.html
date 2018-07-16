@@ -4,13 +4,13 @@
     text='Some of Our Features'
     color='orange' %}
 
-  <div class="features--blocks container">
+  <div class="features__blocks container">
   <div class="row">
     {% for item in site.data.features %}
       <div class="col-12 col-md-6 col-lg-3">
-        <div class="features--blocks--header">
+        <div class="features__blocks__header">
           <img src="/assets/img/features/{{ item.img }}" alt="item.title">
-          <h2 class="features--blocks--header--text">{{ item.title }}</h2>
+          <h2 class="features__blocks__header__text">{{ item.title }}</h2>
         </div>
         <p>{{ item.text }}</p>
       </div>

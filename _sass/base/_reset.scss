@@ -31,9 +31,15 @@ a:active {
 }
 a:hover,
 a:focus {
-  color: var(--yellow);
+  color: var(--orange);
 }
 p {
   line-height: 1.5;
   margin: 0 0 1rem;
+}
+[v-cloak] > * { 
+  display:none;
+}
+[v-cloak]::before { 
+  content: "loading…";
 }

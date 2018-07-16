@@ -4,13 +4,13 @@
     text='Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat' %}
 
-  <div class="devices--blocks container">
+  <div class="devices__blocks container">
     <div class="row">
     {% for item in site.data.devices %}
       <div class="col-12 col-sm-6 col-lg-3">
-        <div class="devices--block">
+        <div class="devices__block">
           <img src="/assets/img/devices/{{ item.img }}">
-          <h2 class="devices--block--header">{{ item.title }}</h2>
+          <h2 class="devices__block__header">{{ item.title }}</h2>
           <p>{{ item.text }}</p>
           <!--a href="#">Read more...</a-->
         </div>

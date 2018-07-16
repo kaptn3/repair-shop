@@ -8,14 +8,14 @@
     display: none;
   }
 }
-.carousel--btns {
+.carousel__btns {
   position: absolute;
   bottom: 40px;
   display: flex;
   width: 100%;
   justify-content: center;
 }
-.carousel--btn {
+.carousel__btn {
   display: block;
   width: 14px;
   height: 14px;
@@ -23,25 +23,25 @@
   border-radius: 14px;
   margin: 0 3px;
 }
-.carousel--btn-active {
-  background-color: var(--yellow);
+.carousel__btn-active {
+  background-color: var(--orange);
 }
-.carousel--slide {
+.carousel__slide {
   background-size: cover;
   background-position: center;
   height: 500px;
 }
-.carousel--slide-right {
+.carousel__slide-right {
   justify-content: flex-end;
 }
-.carousel--slide-left {
+.carousel__slide-left {
   justify-content: flex-start;
 }
-.carousel--slide--content {
+.carousel__slide__content {
   text-transform: uppercase;  
 }
-.carousel--slide--header {
-  color: var(--yellow);
+.carousel__slide__header {
+  color: var(--orange);
   font-size: 2.125rem;
   line-height: .6;
   margin: 0 0 1.5rem 0;

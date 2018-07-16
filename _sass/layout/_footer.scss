@@ -2,7 +2,7 @@
   background: var(--black);
   color: #fff;
 }
-.footer--top {
+.footer__top {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -10,29 +10,29 @@
   font-size: 1.125rem;
   padding: 18px 0;
 }
-.footer--top--social {
+.footer__top__social {
   display: flex;
 }
-.footer--top--social--icon {
+.footer__top__social__icon {
   display: block;
   color: black;
   font-size: .5rem;
   margin-left: 10px;
 }
-.footer--line {
+.footer__line {
   opacity: .04;
   margin: 0;
 }
-.footer--bottom {
+.footer__bottom {
   text-align: center;
   font-size: 0.75rem;
   padding: 16px 0;
 }
 @media (max-width: 575.99px) {
-  .footer--top {
+  .footer__top {
     flex-direction: column;
   }
-  .footer--top--social {
+  .footer__top__social {
     margin-top: 18px;
   }
 }

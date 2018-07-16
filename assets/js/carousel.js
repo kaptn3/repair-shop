@@ -10,13 +10,13 @@ var carousel = new Vue({
   },
   methods: {
     activeButton () {
-      let buttons = document.querySelectorAll('.carousel--btn');
+      let buttons = document.querySelectorAll('.carousel__btn');
       let number = Math.abs(this.currentNumber) % slides.length;
-      buttons[number].className = 'carousel--btn carousel--btn-active';
+      buttons[number].className = 'carousel__btn carousel__btn-active';
 
       for (let i = 0; i < buttons.length; i++) {
         if (i !== number) {
-          buttons[i].className = 'carousel--btn';
+          buttons[i].className = 'carousel__btn';
         }
       }
     },
