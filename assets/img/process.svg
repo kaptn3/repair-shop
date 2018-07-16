@@ -1,5 +1,14 @@
-<svg width="1090" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1090" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1090 400">
  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Raleway:700');
+
+    text {
+      font-family: 'Raleway';
+    }
+  </style>
+ </defs>
  <defs>
   <symbol viewBox="0 0 476.3 476.3" id="svg_2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
    <g id="svg_1">
@@ -93,16 +102,16 @@
   <g id="svg_48"/>
   <g id="svg_70"/>
   <g id="svg_99">
-   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_91" y="289.45313" x="431.39063" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#fafafa" fill="#000000">MAKE CALL US</text>
-   <text id="svg_96" fill="#7f0000" stroke-width="0" x="180.87602" y="234.80394" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">2</text>
+   <text xml:space="preserve" text-anchor="middle" font-weight="bold" font-size="22" id="svg_91" y="289.45313" x="431.39063" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#fafafa" fill="#333333">MAKE CALL US</text>
+   <text id="svg_96" fill="#fbb908" stroke-width="0" x="180.87602" y="234.80394" font-size="24" font-weight="bold" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">2</text>
   </g>
   <g id="svg_100">
-   <text fill="#000000" stroke="#000000" stroke-width="0" x="136.29492" y="170" id="svg_8" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve">BROKEN DEVICE</text>
-   <text fill="#7f0000" stroke-width="0" x="24.65285" y="160.66667" id="svg_9" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">1</text>
+   <text fill="#333333" stroke="#000000" stroke-width="0" x="136.29492" y="170" id="svg_8" font-size="22" font-weight="bold" text-anchor="middle" xml:space="preserve">BROKEN DEVICE</text>
+   <text fill="#fbb908" stroke-width="0" x="24.65285" y="160.66667" id="svg_9" font-size="24" font-weight="bold" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">1</text>
   </g>
   <g id="svg_102">
-   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_95" y="290.948486" x="1002.730713" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#fafafa" fill="#000000">FAST SERVICE</text>
-   <text id="svg_98" fill="#7f0000" stroke-width="0" x="481.575203" y="233.872508" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">4</text>
+   <text xml:space="preserve" text-anchor="middle" font-weight="bold" font-size="22" id="svg_95" y="290.948486" x="1002.730713" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#fafafa" fill="#333333">FAST SERVICE</text>
+   <text id="svg_98" fill="#fbb908" stroke-width="0" x="481.575203" y="233.872508" font-size="24" font-weight="bold" text-anchor="middle" xml:space="preserve" transform="matrix(1.9166666269302368,0,0,1.615384578704834,-19.249999165534973,-88.6153793334961) " stroke="#000000">4</text>
   </g>
   <g id="svg_117">
    <line id="svg_118" y2="204.8813" x2="413.69041" y1="180.39863" x1="413.69041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
@@ -121,7 +130,7 @@
     <line id="svg_137" stroke="#000000" y2="200.45755" x2="555.3807" y1="175.97488" x1="555.3807" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
    </g>
   </g>
-  <text id="svg_97" fill="#7f0000" stroke-width="0" x="325.043715" y="56.975504" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(2.2440531086599695,0,0,1.8312220982913348,-110.6367837781589,57.137440954832556) " stroke="#000000">3</text>
+  <text id="svg_97" fill="#fbb908" stroke-width="0" x="325.043715" y="56.975504" font-size="24" font-weight="bold" text-anchor="middle" xml:space="preserve" transform="matrix(2.2440531086599695,0,0,1.8312220982913348,-110.6367837781589,57.137440954832556) " stroke="#000000">3</text>
   <g id="svg_138">
    <g id="svg_139" stroke="null" transform="rotate(90 846.7109985351562,159.41575622558602) ">
     <line id="svg_140" stroke="#000000" y2="142.85663" x2="846.711" y1="118.37396" x1="846.711" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none"/>
@@ -140,8 +149,8 @@
    <line id="svg_150" y2="262.592016" x2="988.735886" y1="238.109346" x1="988.735886" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
   </g>
   <g id="svg_151">
-   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_93" y="160.375" x="676.73438" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">WE DO</text>
-   <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_94" y="188.375" x="721.73438" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">HOUSE CALLS</text>
+   <text xml:space="preserve" text-anchor="middle" font-weight="bold" font-size="22" id="svg_93" y="160.375" x="676.73438" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#333333">WE DO</text>
+   <text xml:space="preserve" text-anchor="middle" font-weight="bold" font-size="22" id="svg_94" y="188.375" x="721.73438" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#333333">HOUSE CALLS</text>
   </g>
   <g id="svg_153">
    <line id="svg_105" y2="202.75122" x2="124.59831" y1="178.26855" x1="124.59831" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" fill="none" stroke="#000000"/>
