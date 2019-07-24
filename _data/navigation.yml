@@ -3,35 +3,35 @@ en:
     url: '/'
 
   - title: About Us
-    url: /about
+    url: '#'
 
   - title: Support
-    url: /support
+    url: '#'
 
   - title: Repair & Upgrades
-    url: /repair-and-upgrades
+    url: '#'
 
   - title: Book your Repair
-    url: /book-your-repair
+    url: '#'
 
   - title: Contact Us
     url: /contacts
 
 el:
   - title: Σπίτι
-    url: '/el/'
+    url: '/el.html'
 
   - title: About Us
-    url: /el/about
+    url: '#'
 
   - title: Support
-    url: /el/support
+    url: '#'
 
   - title: Repair & Upgrades
-    url: /el/repair-and-upgrades
+    url: '#'
 
   - title: Book your Repair
-    url: /el/book-your-repair
+    url: '#'
 
   - title: Contact Us
     url: /el/contacts

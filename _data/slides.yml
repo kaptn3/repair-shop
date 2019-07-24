@@ -5,17 +5,17 @@ en:
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat.'
     side: left
-    img: 'https://kaptn.ru/repair-shop/assets/img/slides/1.jpg'
+    img: '/assets/img/slides/1.jpg'
 
   - title: 'We super!'
     text: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
     side: right
-    img: 'https://kaptn.ru/repair-shop/assets/img/slides/2.jpg'
+    img: '/assets/img/slides/2.jpg'
 
   - title: 'Nice!'
     text: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.'
     side: right
-    img: 'https://kaptn.ru/repair-shop/assets/img/slides/3.jpg'
+    img: '/assets/img/slides/3.jpg'
 
 el: 
   - title: 'Greece!'
@@ -24,15 +24,15 @@ el:
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat.'
     side: left
-    img: 'https://kaptn.ru/repair-shop/assets/img/slides/1.jpg'
+    img: '/assets/img/slides/1.jpg'
 
   - title: 'We super!'
     text: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
     side: right
-    img: 'https://kaptn.ru/repair-shop/assets/img/slides/2.jpg'
+    img: '/assets/img/slides/2.jpg'
 
   - title: 'Nice!'
     text: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.'
     side: right
-    img: 'https://kaptn.ru/repair-shop/assets/img/slides/3.jpg'
+    img: '/assets/img/slides/3.jpg'
 
